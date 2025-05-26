@@ -1,5 +1,12 @@
 # Changelog
 
+## [23.50.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v23.50.0...v23.50.1) (2025-05-26)
+
+
+### Bug Fixes
+
+* Improve modernExtend default args ([#9417](https://github.com/Koenkk/zigbee-herdsman-converters/issues/9417)) ([417037d](https://github.com/Koenkk/zigbee-herdsman-converters/commit/417037df5c032509632ad32b36822ea515af947d))
+
 ## [23.50.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v23.49.0...v23.50.0) (2025-05-26)
 
 
